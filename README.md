@@ -1,6 +1,10 @@
 # Dsa-Sql-documentation
 This is my first Sql project with Digital skillup Africa
 
+#**Data source**:
+
+Digital Skillup Africa
+
 #**Introduction**:
 This report presents a detailed review of KMSL’s transactional data, encompassing customer orders, product categories, regional sales, shipping methods, and profitability indicators. The purpose of this analysis is to uncover patterns that can guide informed decision-making aimed at boosting revenue, reducing operational inefficiencies, and enhancing customer engagement.
 
